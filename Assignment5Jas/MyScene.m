@@ -27,7 +27,8 @@
     }
     return self;
 }
-//HELLOW PEOPLES 
+//HELLOW PEOPLES AND GOOD DAY
+
 -(void)touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event {
     /* Called when a touch begins */
     
