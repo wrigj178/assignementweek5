@@ -27,14 +27,12 @@
     }
     return self;
 }
-
+//HELLOW PEOPLES 
 -(void)touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event {
     /* Called when a touch begins */
     
     for (UITouch *touch in touches) {
         CGPoint location = [touch locationInNode:self];
-        
-        
     }
 }
 
